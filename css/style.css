@@ -1,0 +1,67 @@
+.collapse{
+    justify-content: flex-end;
+}
+.navbar-toggler{
+    background-color: #fff !important;
+}
+.main{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 32px 0px;
+}
+.audio{
+    width: 250px;
+    height: 375px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0.1em;
+    background-color: #272727;
+    color: white;
+    box-shadow: 1px 1px 20px 1px black;
+    flex: 1 1 250px;
+    margin: 1em;
+    border-radius: 5px;
+}
+.audio img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+.audio h2{
+    font-weight: 500;
+    font-size: medium;
+    margin: 10px;
+}
+.audio p{
+    font-size: small;
+    font-weight: 300;
+    text-align: center;
+    margin: 10px;
+}
+.btn{
+    background-color: #4aae4f !important;
+}
+#s
+{
+    position: fixed;
+}
+.j
+{
+margin-left:300px;
+}
+#z{
+    position: fixed;
+    margin-top: 10px;
+}
+.navbar ul{
+    margin-left: 1300px;
+    display: flex;
+    justify-content: right;
+}
+#audio a{
+    text-decoration: none;
+}
